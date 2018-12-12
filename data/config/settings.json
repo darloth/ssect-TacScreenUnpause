@@ -1,0 +1,5 @@
+{
+	"plugins":{
+		"TacScreenUnpauseCombatPlugin":"tacscreenunpause.TacScreenUnpauseCombatPlugin",
+	},
+}

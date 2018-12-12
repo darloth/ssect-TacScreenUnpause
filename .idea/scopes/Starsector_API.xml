@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Starsector API" pattern="lib:com.fs.starfarer.api..*" />
+</component>

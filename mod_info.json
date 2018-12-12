@@ -1,0 +1,10 @@
+{
+  "id": "dar_tacscreenunpause",
+  "name": "TacScreenUnpause",
+  "author": "Darloth",
+  "utility": "true",
+  "version": "1.0.BUILDNUMTAG",
+  "description": "Unpauses in the tactical map screen.",
+  "gameVersion": "0.9a",
+  "jars": ["jars/TacScreenUnpause.jar"]
+}

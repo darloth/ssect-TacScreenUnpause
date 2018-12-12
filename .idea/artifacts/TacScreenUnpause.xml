@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TacScreenUnpause">
+    <output-path>$PROJECT_DIR$/out/artifacts/TacScreenUnpause</output-path>
+    <properties id="ant-postprocessing">
+      <options enabled="true">
+        <file>file://$PROJECT_DIR$/postbuild.xml</file>
+        <target>postBuild</target>
+      </options>
+    </properties>
+    <root id="archive" name="TacScreenUnpause.jar">
+      <element id="module-output" name="TacScreenUnpause" />
+    </root>
+  </artifact>
+</component>
